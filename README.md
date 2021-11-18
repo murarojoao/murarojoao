@@ -1,4 +1,4 @@
-## Hello, World! I'm João Muraro!
+## Hello, World!<br>I'm João Muraro!
 <div align="center">
   <a href="https://github.com/murarojoao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murarojoao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
